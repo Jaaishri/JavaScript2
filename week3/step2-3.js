@@ -44,7 +44,7 @@ function repeatStringNumTimesWithDoWhile(str, num) {
 
 console.log('do-while', repeatStringNumTimesWithDoWhile('abc', 3));
 
-// Do not change or remove anything below this line
+
 module.exports = {
   repeatStringNumTimesWithFor,
   repeatStringNumTimesWithWhile,
