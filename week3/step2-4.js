@@ -11,5 +11,5 @@ hound.name = 'Isabella';
 hound.color = 'Gray';
 hound.numLegs = 4;
 
-// Do not change or remove anything below this line
+
 module.exports = hound;
