@@ -25,5 +25,5 @@ function sayFive(number) {
 
 threeFive(10, 15, sayThree, sayFive);
 
-// Do not change or remove anything below this line
+
 module.exports = threeFive;
